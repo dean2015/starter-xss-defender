@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.housecenter.dlfc.framework.xss.config.property.ExcludeCharatorsProperties,\
+cn.housecenter.dlfc.framework.xss.config.XssDefenderConfig

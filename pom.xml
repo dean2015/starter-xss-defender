@@ -12,6 +12,12 @@
     <artifactId>starter-xss-defender</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
+    <developers>
+        <developer>
+            <name>Gao Song</name>
+            <email>zhgmu@sina.com</email>
+        </developer>
+    </developers>
     <modules>
         <module>xss-defender</module>
     </modules>

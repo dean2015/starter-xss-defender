@@ -11,6 +11,13 @@
 
     <artifactId>xss-defender</artifactId>
 
+    <developers>
+        <developer>
+            <name>Gao Song</name>
+            <email>zhgmu@sina.com</email>
+        </developer>
+    </developers>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
